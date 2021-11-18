@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MilliKutuphane", "MilliKutuphane\MilliKutuphane.csproj", "{D42F300F-B635-4FF4-9585-1C5532365EB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MilliKutuphane.Data", "MilliKutuphane.Data\MilliKutuphane.Data.csproj", "{74D3DCCA-E261-47CD-B311-C4F85D60BF8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D42F300F-B635-4FF4-9585-1C5532365EB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D42F300F-B635-4FF4-9585-1C5532365EB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D42F300F-B635-4FF4-9585-1C5532365EB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D42F300F-B635-4FF4-9585-1C5532365EB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74D3DCCA-E261-47CD-B311-C4F85D60BF8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74D3DCCA-E261-47CD-B311-C4F85D60BF8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74D3DCCA-E261-47CD-B311-C4F85D60BF8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74D3DCCA-E261-47CD-B311-C4F85D60BF8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0A34515-97C5-4DB0-B17D-FF03FFC77976}
+	EndGlobalSection
+EndGlobal
